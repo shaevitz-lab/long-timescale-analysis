@@ -60,7 +60,7 @@ This script embeds the full data set using the model generated in the previous s
 
 We used [SLEAP](sleap.ai) for tracking the flies. The tracking code can be found in the tracking directory. The code is a slightly modified version that enables the input of MKV files.
 
-The tracking process is parallelized over fly-hours to efficiently utilize GPU resources for variable-length data.
+The tracking process is parallelized over fly-hours to efficiently utilize GPU resources for variable-length data. Email gmckenziesmith@wesleyan.edu or swwolf@princeton.edu to obtain the trained SLEAP models.
 
 
 ## Documentation
